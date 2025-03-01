@@ -6,7 +6,7 @@
 
 `SEMESTRE: 8º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo deste projeto é auxiliar a empresa Visto, assim como identificar oportunidades de melhoria em seus processos, tornando-os mais ágeis e otimizados. 
 
 ## Integrantes
 
